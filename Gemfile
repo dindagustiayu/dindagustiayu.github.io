@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
-# gem 'github-pages', "~> GITHUB-PAGES-VERSION", group: :jekyll_plugins
+gem 'jekyll'
+
 
 # Core plugins that directly affect site building
 group :jekyll_plugins do
