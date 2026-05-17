@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-scholar-research-competition-inari-expo-2023",
+        },{id: "post-python-for-scientific-computing-and-data-visualizations-random-spaces",
+        
+          title: 'Python for Scientific Computing and Data Visualizations – Random Spaces <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://dindagustiayu.github.io/randomspaces.github.io/", "_blank");
+          
+        },
+      },{id: "post-scholar-research-competition-inari-expo-2023",
         
           title: "Scholar Research Competition - Inari Expo 2023",
         
