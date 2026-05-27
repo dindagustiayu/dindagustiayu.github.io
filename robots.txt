@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dindagustiayu.github.io/sitemap.xml
+Sitemap: https://dindagustiayu.com//sitemap.xml
