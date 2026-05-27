@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://ocw.mit.edu/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/'>Solid-State Chemistry</a> | MLIPs Enthusiast
+subtitle:
+
 
 profile:
   align: right
@@ -30,12 +31,19 @@ latest_posts:
   limit: 4 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Dinda, I do research on stacking fault formation, dislocation, and intercalation construction analysis by powder X-Ray Diffraction (P-XRD) and Raman Spectroscopy, and their effects on the electronic states.
 
-Highly committed on constantly learn new techniques and innovative topics:
-- Nano-materials (single and polycrystalline systems).
-- Defect tolerance and anharmonicity.
-- Scientific computing and mathematic modelling.
+
+Hi!, I'm interested in using Machine Learning to learn the rules of Quantum Mechanics and Simulate Crystalline and Amorphous Solid Systems.
+
+Some projects I have been involved in:
+
+- [random-spaces](https://dindagustiayu.github.io/randomspaces.github.io/): 
+an interactive notebook as a knowledge base for everyone who wants to apply Python in their work.
+- [diffrac-refinement](https://github.com/dindagustiayu/diffrac-refinement/):
+algorithm experimentation - powerxrd to simulate diffraction patterns.
+- [data-processing](https://github.com/dindagustiayu/data-processing/):
+a digital textbook and practical guide to characterise material results.
+
 
 For publication records, please check [/publications](/publications/) where we can sort by research area. For repositories entry study progress, please check [/repositories](/repositories/) where we can organize by different topics. For some blog entries on my research progress, we can find them in [/blog](/blog/). 
 
