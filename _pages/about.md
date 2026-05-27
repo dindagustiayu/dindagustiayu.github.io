@@ -35,7 +35,7 @@ latest_posts:
 
 Hi!, I'm interested in using Machine Learning to learn the rules of Quantum Mechanics and Simulate Crystalline and Amorphous Solid Systems.
 
-Some projects I have been involved in:
+Some of the projects I maintain are:
 
 - [random-spaces](https://dindagustiayu.github.io/randomspaces.github.io/): 
 an interactive notebook as a knowledge base for everyone who wants to apply Python in their work.
