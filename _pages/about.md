@@ -33,19 +33,20 @@ latest_posts:
 
 
 
-Hi!, I'm interested in using Machine Learning to learn the rules of Quantum Mechanics and Simulate Crystalline and Amorphous Solid Systems.
+Hi!, I do research on stacking fault formation, dislocation, and intercalation construction analysis
+using powder X-ray diffraction (PXRD) and Raman spectroscopy, and their effects on the electronic states. 
 
-Some of the projects I maintain are:
+Currently, I'm interested in using Machine Learning to learn the rules of Quantum Mechanics and Simulate Crystalline and Amorphous Solid Systems. Some of the projects I maintain are:
 
-- [random-spaces](https://dindagustiayu.github.io/randomspaces.github.io/): 
+- [`random-spaces`](https://dindagustiayu.github.io/randomspaces.github.io/): 
 an interactive notebook as a knowledge base for everyone who wants to apply Python in their work.
-- [diffrac-refinement](https://github.com/dindagustiayu/diffrac-refinement/):
+- [`diffrac-refinement`](https://github.com/dindagustiayu/diffrac-refinement/):
 algorithm experimentation - powerxrd to simulate diffraction patterns.
-- [data-processing](https://github.com/dindagustiayu/data-processing/):
+- [`data-processing`](https://github.com/dindagustiayu/data-processing/):
 a digital textbook and practical guide to characterise material results.
 
 
-For publication records, please check [/publications](/publications/) where we can sort by research area. For repositories entry study progress, please check [/repositories](/repositories/) where we can organize by different topics. For some blog entries on my research progress, we can find them in [/blog](/blog/). 
+For publication records, please check [`/publications`](/publications/) where we can sort by research area. For repositories entry study progress, please check [`/repositories`](/repositories/) where we can organize by different topics. For some blog entries on my research progress, we can find them in [`/blog`](/blog/). 
 
 My research profiles are available in the links below.
 
