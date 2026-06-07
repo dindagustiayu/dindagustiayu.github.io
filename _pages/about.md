@@ -38,7 +38,7 @@ using powder X-ray diffraction (PXRD) and Raman spectroscopy, and their effects 
 
 Currently, I'm interested in using Machine Learning to learn the rules of Quantum Mechanics and Simulate Crystalline and Amorphous Solid Systems. Some of the projects I maintain are:
 
-- [`random-spaces`](https://dindagustiayu.github.io/randomspaces.github.io/): 
+- [`eigen-spaces`](https://dindagustiayu.github.io/eigenspaces.github.io/): 
 an interactive notebook as a knowledge base for everyone who wants to apply Python in their work.
 - [`diffrac-refinement`](https://github.com/dindagustiayu/diffrac-refinement/):
 algorithm experimentation - powerxrd to simulate diffraction patterns.
