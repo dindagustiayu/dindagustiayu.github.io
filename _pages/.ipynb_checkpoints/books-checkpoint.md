@@ -1,7 +1,7 @@
 ---
 layout: post
 title: hobbies
-permalink: /hobbies/
+permalink: /_hobbies/
 description: 
 nav: true
 nav_order: 5
