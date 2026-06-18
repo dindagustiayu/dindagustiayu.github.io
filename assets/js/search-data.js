@@ -25,10 +25,17 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "The repository aims to provide a resource for students and researchers who want to use Python as a computational tool in solve complex problems.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
+          },
+        },{id: "nav-hobbies",
+          title: "hobbies",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/hobbies/";
           },
         },{id: "post-python-for-scientific-computing-and-data-visualizations-eigen-spaces",
         
