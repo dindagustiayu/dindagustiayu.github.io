@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:
-
+subtitle: Independent Researcher - Indonesia
 
 profile:
   align: right
