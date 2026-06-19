@@ -17,7 +17,7 @@ In my spare time, I'm [voracious reader](https://www.goodreads.com/dindagustiayu
 <a href="https://medium.com/@dindagustiayuedu">
     <img src="https://simpleicons.org/icons/medium.svg"
     alt="medium" width="16">
-</a> just for sharing persfective.
+</a> just for sharing perspective.
 
 When I'm not reading or working, I go cycling. 
 
