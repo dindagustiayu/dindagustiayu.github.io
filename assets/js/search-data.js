@@ -35,7 +35,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/hobbies/";
+            window.location.href = "/_pages/";
           },
         },{id: "post-python-for-scientific-computing-and-data-visualizations-eigen-spaces",
         
