@@ -149,8 +149,13 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  books:
+  pages:
     output: true
+    permalink: /:path/
+  hobbies:
+    layout: page
+    output: true
+    permalink: /:path/
   news:
     defaults:
       layout: post
