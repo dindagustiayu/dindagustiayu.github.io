@@ -6,7 +6,7 @@ subtitle: Independent Researcher - Indonesia
 
 profile:
   align: right
-  image: 
+  image: me.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p></p>
@@ -32,8 +32,7 @@ latest_posts:
 
 
 
-Hi!, I do research on stacking fault formation, dislocation, and intercalation construction analysis
-using powder X-ray diffraction (PXRD) and Raman spectroscopy, and their effects on the electronic states. 
+Hi!, I do research on stacking fault formation, dislocation, and intercalation construction analysis using powder X-ray diffraction (PXRD) and Raman spectroscopy, and their effects on the electronic states. 
 
 Currently, I'm interested in using Machine Learning to learn the rules of Quantum Mechanics and Simulate Crystalline and Amorphous Solid Systems. Some of the projects I maintain are:
 
