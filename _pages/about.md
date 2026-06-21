@@ -6,7 +6,7 @@ subtitle: Independent Researcher - Indonesia
 
 profile:
   align: right
-  image: IMG_7267.JPG
+  image: me.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p></p>
