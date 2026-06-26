@@ -13,7 +13,7 @@ In my spare time, I'm a [voracious reader](https://www.goodreads.com/dindagustia
 <a href="https://www.goodreads.com/dindagustiayu">
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/goodreads.webp" 
        alt="Goodreads" width="16">
-</a>, particularly of classical books. Some of my favorite books include [The Count of Monte Cristo](https://www.goodreads.com/book/show/7126.The_Count_of_Monte_Cristo) and Sherlock Holmes complete stories, Volume I and II. I'm also read partial of science fiction from the mid 1800s, such as The Invisible Man, and Journey to The Centre of The Earth. Aside from reading books, I write a blog on [Medium](https://medium.com/@dindagustiayuedu)
+</a>, particularly of classical books. Some of my favorite books include [The Count of Monte Cristo](https://www.goodreads.com/book/show/7126.The_Count_of_Monte_Cristo) and Sherlock Holmes The complete novels and stories, Volume I and II. I'm also read partial of science fiction from the mid 1800s, such as The Invisible Man, and Journey to The Centre of The Earth. Aside from reading books, I write a blog on [Medium](https://medium.com/@dindagustiayuedu)
 <a href="https://medium.com/@dindagustiayuedu">
     <img src="https://simpleicons.org/icons/medium.svg"
     alt="medium" width="16">
