@@ -36,7 +36,7 @@ Hi!, I do research on stacking fault formation, dislocation, and intercalation c
 
 Currently, I'm interested in using Machine Learning to learn the rules of Quantum Mechanics and Simulate Crystalline and Amorphous Solid Systems. Some of the projects I maintain are:
 
-- [`eigen-spaces`](https://dindagustiayu.github.io/eigenspaces.github.io/): 
+- [`eigen-spaces`](https://github.com/dindagustiayu/eigenspaces.github.io/): 
 an interactive notebook as a knowledge base for everyone who wants to apply Python in their work.
 - [`diffrac-refinement`](https://github.com/dindagustiayu/diffrac-refinement/):
 algorithm experimentation - powerxrd to simulate diffraction patterns.
