@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Independent Researcher - Indonesia
+subtitle: A Junior ML Engineer in Scientific Research - Indonesia
 
 profile:
   align: right
