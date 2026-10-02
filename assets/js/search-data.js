@@ -138,6 +138,13 @@ ninja.data = [{
           window.open("mailto:%6D%61%74%65%72%69%61%6C%73@%64%69%6E%64%61%67%75%73%74%69%61%79%75.%63%6F%6D", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/dinda-gusti-ayu-8049a01b0", "_blank");
+        },
+      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
