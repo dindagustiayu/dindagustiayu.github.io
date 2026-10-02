@@ -138,25 +138,25 @@ ninja.data = [{
           window.open("mailto:%6D%61%74%65%72%69%61%6C%73@%64%69%6E%64%61%67%75%73%74%69%61%79%75.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=d2p3h2IAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-linkedin',
-        title: 'Linkedin',
-        section: 'Socials',
-        handler: () => {
-          window.open("", "_blank");
-        },
-      },{
         id: 'social-github',
-        title: 'Github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("https://github.com/dindagustiayu", "_blank");
+        },
+      },{
+        id: 'social-medium',
+        title: 'Medium',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://medium.com/@dindagustiayuedu", "_blank");
+        },
+      },{
+        id: 'social-youtube',
+        title: 'YouTube',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://youtube.com/@dindagustiayuedu", "_blank");
         },
       },{
       id: 'light-theme',
