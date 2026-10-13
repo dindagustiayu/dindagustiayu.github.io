@@ -42,6 +42,8 @@ an interactive notebook as a knowledge base for everyone who wants to apply Pyth
 algorithm experimentation - powerxrd to simulate diffraction patterns.
 - [`data-processing`](https://github.com/dindagustiayu/data-processing/):
 a digital textbook and practical guide to characterise material results.
+- [`dft-toolkit`](https://github.com/dindagustiayu/DFT-toolkit/):
+algorithm experimentation with open-source Python packages for DFT calculations.
 
 
 For publication records, please check [`/publications`](/publications/) where we can sort by research area. For repositories entry study progress, please check [`/repositories`](/repositories/) where we can organize by different topics. For some blog entries on my research progress, we can find them in [`/blog`](/blog/). 
