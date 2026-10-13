@@ -23,7 +23,7 @@ Eigen Spaces is an open learning resource for students and researchers who inter
 
 <div align="center">
 <a href="https://dindagustiayu.com/eigenspaces.github.io/">
-  <img src="/assets/img/eigen_project.jpg" width="600">
+  <img src="/assets/img/eigen_projects.jpg" width="600">
 </a>
 </div>
 <p align='center' style="font-size: 0.85em;">
