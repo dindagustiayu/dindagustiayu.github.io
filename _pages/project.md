@@ -32,10 +32,10 @@ Eigen Spaces is an open learning resource for students and researchers who inter
 </p>
 <div align="center">
 <a href="https://github.com/dindagustiayu/eigenspaces.github.io">
-    <img src="/assets/img/github.svg" alt="GitHub" width="25">
+    <img src="/assets/img/github_light.svg" alt="GitHub" width="25">
 </a>
 <a href="https://dindagustiayu.com/eigenspaces.github.io/">
-    <img src="/assets/img/quarto_1.svg" alt="Documentation" width="25">
+    <img src="/assets/img/quarto_dark.svg" alt="Documentation" width="25">
 </a>    
 </div>
 
@@ -62,7 +62,7 @@ Data processing is a digital textbook that focuses on the used computational and
 </p>
 <div align="center">
 <a href="https://github.com/dindagustiayu/data-processing/">
-    <img src="/assets/img/github.svg" alt="GitHub" width="25">
+    <img src="/assets/img/github_light.svg" alt="GitHub" width="25">
 </a>
 <a href="">
     <img src="/assets/img/logo_myst.svg" alt="Documentation" width="25">
@@ -90,10 +90,10 @@ Predicting chemical properties using a first-priciple method at the atomic scale
 </p>
 <div align="center">
 <a href="https://github.com/dindagustiayu/DFT-toolkit/">
-    <img src="/assets/img/github.svg" alt="GitHub" width="25">
+    <img src="/assets/img/github_light.svg" alt="GitHub" width="25">
 </a>
 <a href="">
-    <img src="/assets/img/read_the_docs.svg" alt="Documentation" width="25">
+    <img src="/assets/img/readthedocs_light.svg" alt="Documentation" width="25">
 </a>    
 </div>
 
