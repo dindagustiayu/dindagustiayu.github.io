@@ -9,12 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "blog",
+  },{id: "nav-projects",
+          title: "projects",
+          description: "The following projects are developed and maintained to support research in computational chemistry.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/project/";
+          },
+        },{id: "nav-education",
+          title: "education",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/blog/";
+            window.location.href = "/education/";
           },
         },{id: "nav-publications",
           title: "publications",
@@ -23,12 +30,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
+        },{id: "nav-blog",
+          title: "blog",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/repositories/";
+            window.location.href = "/blog/";
           },
         },{id: "nav-hobbies",
           title: "hobbies",
