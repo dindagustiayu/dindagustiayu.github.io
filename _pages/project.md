@@ -97,7 +97,7 @@ Predicting chemical properties using a first-priciple method at the atomic scale
 </a>    
 </div>
 
-This project helps me build a deep understanding of practical aspect of DFT implementations such as density functional approximations, geometry optimization, vibrational and molecular properties, and transition energies. With this foundations I have skills to construct the workflows, including the set functionals and basis set.
+This project helps me build a deep understanding of practical aspect of DFT implementations such as density functional approximations, geometry optimization, vibrational and molecular properties, transition energies, stochastic processes, and algorithm design. With this foundations I have skills to construct the workflows, including the set functionals and basis set.
 
 Project repository can be found [here](https://github.com/dindagustiayu/data-processing/)
 
